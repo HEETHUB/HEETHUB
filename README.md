@@ -1,10 +1,13 @@
-### Hi there 👋 I'm Heetae Cho
-### Seoul National University, expected to graduate on 02.2023
-### Majoring in Economics
-### Studying Data Science, AI, Statistics, and Software Engineering
-### Living in Seoul
-### Love Rock, Blues, and Jazz and to play them with guitar
-### Want to be a outstanding Data Scientist with insights in economics and humanities 
+## Hi there 👋 I'm Heetae Cho
+
+##### Seoul National University, expected to graduate on 02.2023
+##### Majoring in Economics
+##### Studying Data Science, AI, Statistics, and Software Engineering
+##### Living in Seoul
+##### Love Rock, Blues, and Jazz and to play them with guitar
+##### Want to be a outstanding Data Scientist with insights in economics and humanities 
+####   
+#### e-mail : pank0415@gmail.com
 <!--
 **HEETHUB/HEETHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

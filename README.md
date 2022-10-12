@@ -6,8 +6,11 @@
 ##### Living in Seoul
 ##### Love Rock, Blues, and Jazz and to play them with guitar
 ##### Want to be a outstanding Data Scientist with insights in economics and humanities 
-####   
-#### e-mail : pank0415@gmail.com
+##### e-mail : pank0415@gmail.com
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+
+</a>
 <!--
 **HEETHUB/HEETHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

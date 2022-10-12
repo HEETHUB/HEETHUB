@@ -3,7 +3,7 @@
 ##### _Seoul National University, expected to graduate on 02.2023_
 ##### _Majoring in Economics_
 ##### _Studying Data Science, AI, Statistics, and Software Engineering_
-##### -Living in Seoul_
+##### _Living in Seoul_
 ##### _Love Rock, Blues, and Jazz and to play them with guitar_
 ##### _Want to be a Data Scientist with insights in economics and humanities_ <br>
 ##### e-mail : pank0415@gmail.com

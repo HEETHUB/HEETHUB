@@ -1,14 +1,18 @@
 ## Hi there 👋 I'm Heetae Cho
 
-##### Seoul National University, expected to graduate on 02.2023
-##### Majoring in Economics
-##### Studying Data Science, AI, Statistics, and Software Engineering
-##### Living in Seoul
-##### Love Rock, Blues, and Jazz and to play them with guitar
-##### Want to be a outstanding Data Scientist with insights in economics and humanities 
+##### _Seoul National University, expected to graduate on 02.2023_
+##### _Majoring in Economics_
+##### _Studying Data Science, AI, Statistics, and Software Engineering_
+##### -Living in Seoul_
+##### _Love Rock, Blues, and Jazz and to play them with guitar_
+##### _Want to be a Data Scientist with insights in economics and humanities_ <br>
 ##### e-mail : pank0415@gmail.com
+### My Stacks 🥋
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=PYTHON&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTORCH&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=&logoColor=white"/></a> 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 </a>
 <!--

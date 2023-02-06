@@ -13,14 +13,13 @@ _Love Rock, Blues, and Jazz and to play them with guitar_
 _Want to be a Data Scientist with insights in economics and humanities_ <br>
 
 <h4> e-mail : pank0415@gmail.com </h4>
-<h2> My Tech Stacks 🥋 </h2>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=PYTHON&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTORCH&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=&logoColor=white"/></a> 
+<h2> My Tech Stacks 🥋 </h2><br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTORCH&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=&logoColor=white"/>
 
 
-</a>
 <!--
 **HEETHUB/HEETHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

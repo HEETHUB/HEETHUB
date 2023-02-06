@@ -20,10 +20,10 @@ _Want to be a Data Scientist with insights in economics and humanities_ <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=&logoColor=white"/>
 </div>
-<hr>
+<!-- <hr>
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEETHUB&show_icons=true&theme=radical)
-</div>
+</div> -->
 <!--
 **HEETHUB/HEETHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

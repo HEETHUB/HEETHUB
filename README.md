@@ -5,7 +5,7 @@ _Seoul National University, expected to graduate on 02.2023_
 _Majoring in Economics_
 <br>
 _Studying Data Science, AI, Statistics, and Software Engineering_
-<br>
+<br><br>
 _Living in Seoul_
 <br>
 _Love Rock, Blues, and Jazz and to play them with guitar_

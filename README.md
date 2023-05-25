@@ -19,6 +19,7 @@ _I really want to be a good Developer with insights in economics and humanities.
 <h2> My Tech Stacks 🥋 </h2>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTORCH&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=white"/>

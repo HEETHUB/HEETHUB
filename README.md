@@ -1,5 +1,11 @@
 <h1> Hi there 👋 I'm Heetae Cho <br> A developer who makes economic code</h1>
 
+<h4> Seoul National University, Economics (2013~2023)</h4>
+<h4> SSAFY(Samsung Software Academy For Youth) 9th (2023.01~06)</h4>
+<h4> Tmax Tibero, Database Engine Developer (2023.07~)</h4>
+
+<h1>I AM..</h1>
+
 <h4> 1. Platinum 5 tier (Top 3%) at BOJ(Backjoon Online Judge), the biggest Algorithm Problem Solving Website in Korea </h4> 
 <h4> 2. class A at Software Expert Academy(SWEA), a Algorithm Problem Solving Website operated by Samsung </h4> 
 <h4> 3. have a Very Strong Intellectual Curiosity and a Desire to Explore new Fields I've not experienced or known about</h4>

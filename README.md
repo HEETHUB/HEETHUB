@@ -16,7 +16,7 @@
 
 _I'm now working as a Database SQL Engine Developer at TmaxTibero. Data Dictionary, Data Definition Languages, Database Audits are my experties. I developed multiple features including unused columns, automatically gathering stats during index DDL, index subpartition online rebuild, etc..(Data Definition Languages), resolving spinlock contentions in DD cache search, improving hashing functions in DD cache search (Data Dictionary), fully redesigning Tibero Database Audit and add packages for audit management (Audit)._ <br><br>
 _I graduated from Seoul National University majoring in Economics, and I wrote a graduate paper on econometrics about youth unemployment rate. Also I took several classes of Seoul National University Graduate School of Data Science. I studied Data Science, Deep Learning and Machine Learning, and Statistics._ <br><br>
-_now I'm studying Programming and Software Engineering in Samsung Software Academy For Youth (SSAFY). I really enjoy solving difficult algorithm problems, usually using Java and Python. I achieved the Platinum tier(top 3%) at BOJ, which is the biggest algorithm problem solving website in Korea, after only two months of studying Algorithm. I also got class A at Software Expert Academy(SWEA), which is a algorithm problem solving website operated by Samsung._ <br><br>
+_I studied Programming and Software Engineering in Samsung Software Academy For Youth (SSAFY) which has been the best software academic bootcamp program in South Korea. I really enjoy solving difficult algorithmic problems. I achieved the Platinum tier(top 3%) at BOJ, which is the biggest algorithm problem solving website in Korea, after only two months of studying Algorithm. I also got class A at Software Expert Academy(SWEA), which is a algorithm problem solving website operated by Samsung._ <br><br>
 _I have a very strong intellectual curiosity and a desire to explore new fields that I have not experienced. I enjoy spending long time pondering and solving difficult problems because it gives me intellectual happiness and I feel I've grown after solving difficult puzzles. I love old rock, blues, and jazz, and I love to play them with my guitar. I've been playing guitar since I was a middle school student, you can listen to my play at my Youtube channel "HEET"(https://www.youtube.com/channel/UCueGQkEAOXuxdv6hylwVdfw)._ <br><br>
 _I really want to be a good Developer with insights in economics and humanities._
 
@@ -25,11 +25,11 @@ _I really want to be a good Developer with insights in economics and humanities.
 <h4> Solved.ac profile : https://solved.ac/profile/pank0415 </h4>
 <h2> My Tech Stacks 🥋 </h2>
 <div>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTORCH&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=&logoColor=white"/>
 </div>
 <hr>
